@@ -2,15 +2,10 @@
   <h1>⚡ Starbase Exchange</h1>
   <p><b>Next-Gen High-Frequency Trading Infrastructure & Open-Source Developer Hub</b></p>
 
-  <a href="https://github.com/StarbaseExchange">
-    <img src="https://img.shields.io/badge/Ecosystem-Starbase-blue?style=for-the-badge&logo=github" alt="Ecosystem" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Protocol-SBE%20%2F%20WebSocket-orange?style=for-the-badge" alt="Protocol" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Latency-Microsecond-brightgreen?style=for-the-badge" alt="Latency" />
-  </a>
+  <!-- 静态技术属性标签（展示型，不带伪装链接） -->
+  <img src="https://img.shields.io/badge/Ecosystem-Starbase-blue?style=flat-square" alt="Ecosystem" />
+  <img src="https://img.shields.io/badge/Protocol-SBE%20%2F%20WebSocket-orange?style=flat-square" alt="Protocol" />
+  <img src="https://img.shields.io/badge/Latency-Microsecond-brightgreen?style=flat-square" alt="Latency" />
 </div>
 
 ---
@@ -29,13 +24,13 @@
 
 ---
 
-### 🌐 Matrix & Channels
+### 🌐 Official Matrix & Community
 
-| Platform | Link / Handle | Focus |
+| Platform | Handle | Link |
 | :--- | :--- | :--- |
-| **GitHub** | [`@StarbaseExchange`](https://github.com/StarbaseExchange) | Open-source Repositories & SDKs |
-| **X (Twitter)** | `@StarbaseExch` | Industry Insights & Engine Updates |
-| **Discord** | `StarbaseExchange` | Developer & Quant Community |
+| **GitHub** | `@StarbaseExchange` | [Visit Organization](https://github.com/StarbaseExchange) |
+| **X (Twitter)** | `@StarbaseExch` | [Follow on X](https://x.com/StarbaseExch) |
+| **Discord** | `StarbaseExchange` | *Community link coming soon* |
 
 ---
 
