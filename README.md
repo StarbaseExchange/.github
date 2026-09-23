@@ -34,7 +34,7 @@
 | Platform | Link / Handle | Focus |
 | :--- | :--- | :--- |
 | **GitHub** | [`@StarbaseExchange`](https://github.com/StarbaseExchange) | Open-source Repositories & SDKs |
-| **X (Twitter)** | `@StarbaseExchange` | Industry Insights & Engine Updates |
+| **X (Twitter)** | `@StarbaseExch` | Industry Insights & Engine Updates |
 | **Discord** | `StarbaseExchange` | Developer & Quant Community |
 
 ---
